@@ -1,11 +1,10 @@
 #ifndef main_h
 #define main_h
+
  /**
- * main - Entry point
+ *contains lists of put functions
  *
- * Description: This program provides a basic introduction to functions in C.
- *
- * Return: Always 0 (Success)
+ * 
  */
 
 int _putchar(char);
