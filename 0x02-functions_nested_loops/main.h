@@ -1,11 +1,6 @@
-/**
- * main - Entry point
- *
- * Description: This program provides a basic introduction to functions in C.
- *
- * Return: Always 0 (Success)
- */
-int main(void) {
+#ifndef main_h
+#define main_h
+
 
 int _putchar(char);
 void print_alphabet(void);
@@ -19,3 +14,5 @@ void jack_bauer(void);
 void times_table(void);
 int add(int, int);
 void print_to_98(int n);
+
+#endif 
