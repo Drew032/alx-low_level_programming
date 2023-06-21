@@ -2,6 +2,9 @@
 
 	/**
 	 * main - Entry point
+	 * // Prints the character '_'
+_putchar('_');
+
 	 * Return: Always 0
 	 */
 
